@@ -1,0 +1,8 @@
+com\literalura1\LiteraluraApp.class
+com\literalura1\service\CatalogoLibros.class
+com\literalura1\model\Libro.class
+com\literalura1\repository\LibroRepository.class
+com\literalura1\service\ConsumoAPI.class
+com\literalura1\model\Autor.class
+com\literalura1\model\RespuestaAPI.class
+com\literalura1\repository\AutorRepository.class
